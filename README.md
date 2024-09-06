@@ -1,4 +1,4 @@
-![Research Draft Notes](https://github.com/user-attachments/assets/feeb64b1-585c-4657-ac05-741ff31205d6)
+![Research Draft Notee](https://github.com/user-attachments/assets/61a403ce-4b74-478c-86cf-ede6556903b6)
 
 > Create draft research notes.
 
